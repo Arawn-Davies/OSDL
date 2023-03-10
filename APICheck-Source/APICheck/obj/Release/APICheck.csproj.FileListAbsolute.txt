@@ -1,0 +1,11 @@
+D:\APICheck-Source\APICheck\bin\Release\APICheck.exe.config
+D:\APICheck-Source\APICheck\bin\Release\APICheck.exe
+D:\APICheck-Source\APICheck\bin\Release\APICheck.pdb
+D:\APICheck-Source\APICheck\bin\Release\Newtonsoft.Json.dll
+D:\APICheck-Source\APICheck\bin\Release\Newtonsoft.Json.xml
+D:\APICheck-Source\APICheck\obj\Release\APICheck.csproj.AssemblyReference.cache
+D:\APICheck-Source\APICheck\obj\Release\APICheck.csproj.SuggestedBindingRedirects.cache
+D:\APICheck-Source\APICheck\obj\Release\APICheck.csproj.CoreCompileInputs.cache
+D:\APICheck-Source\APICheck\obj\Release\APICheck.csproj.CopyComplete
+D:\APICheck-Source\APICheck\obj\Release\APICheck.exe
+D:\APICheck-Source\APICheck\obj\Release\APICheck.pdb
