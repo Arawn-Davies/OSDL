@@ -19,7 +19,7 @@ namespace APICheck
         private static List<string> MissingFiles;
 
         // Operation mode booleans (am I running in debug mode, or as part of a script?)
-        private static bool is_live = true;
+        private static bool is_live = false;
         private static bool download = true;
 
         // Whether or not to obtain the data package version ID
@@ -53,10 +53,10 @@ namespace APICheck
             // If running in debug mode, not as part of an automation script
             if (is_live == false)
             {
-                package = "0040169726";
-				// Z mapped to \\lCC80597\e$\
-                dataPath = @"Z:\ABC\SetMe\";
-                apikey = "ItsASecretSshhh";
+                package = "0040169492";
+                // Z mapped to \\lCC80597\e$\
+                dataPath = @"D:\OSAPIScheduledTasks\data\";
+                apikey = "Yw65lecSGvY5tGJEfw9HAuZGvN636k6O";
                 download = true;
                 get_order_id = false;
             }
